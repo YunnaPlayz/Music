@@ -71,12 +71,11 @@ a{
 
 b{
     margin-top: 10px;
-    font-size: 22px;
+    font-size: 26px;
     font-weight: 200;
     color: white;
     text-align: center;
 }
-
 
 a:active{
     box-shadow: 5px 5px 10px black;
@@ -84,23 +83,24 @@ a:active{
 }
 
 h1{
-    margin-left: 925px;
-    margin-top: 340px;
+    margin-left: 820px;
+    margin-top: 121.5px;
     color: white;
     width: 300px;
-    font-size: 40px;
+    font-size: 49px;
     text-align: center;
     font-family: broadway;
 }
 
 h1 a{
-    border: 2px solid white;
-    margin-right: 5px;
-    font-size: 25px;
+    border: 2.5px solid white;
+    margin-right: 7px;
+    font-size: 35px;
+    
 }
 
 h6{
-    margin-top: 53px;
+    margin-top: 243px;
     margin-left:610px;
     height: 30px;
     width: 450px;
