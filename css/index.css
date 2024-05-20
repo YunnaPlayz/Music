@@ -176,3 +176,16 @@ a:hover {
     transform: translate(2px);
 
 }
+p{
+    font-size: 55px;
+    margin-top:-450px;
+    margin-left: 100px;
+    font-family:broadway;
+    color: black;
+    text-shadow: 2.5px 2px 1.5px white;
+    color: black;
+}
+#gifmusic{
+    margin-left:915px;
+    margin-top: 15.5px;
+}

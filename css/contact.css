@@ -130,12 +130,12 @@ h1{
     
 }
 #cart3{
-    margin-left: 190px;
+    margin-left: 160px;
 }
 
 #instruments1{
-    margin-left: 190px;
-    margin-top: 80px;
+    margin-left: 160px;
+    margin-top: 90px;
 
 }
 
@@ -199,24 +199,26 @@ a:hover {
 }
 .aboutrhythmsic p{
 margin-left: 860px;
-    margin-top: -460px;
+    margin-top: -430px;
     text-align: left;
     font-family: Constantia;
     font-size: 17.5px;
 }
 .send h2{
-    
+    width: 452px;
     margin-left: 810px;
+    font-size: 19px;
 }
 .achp p{
     margin-top: -170px;
-    margin-left: 470px;
+    margin-left: 435px;
     text-align: left;
     font-family: Constantia;
+
 }
 .achp1 p{
     margin-top: -165px;
-    margin-left: 470px;
+    margin-left: 435px;
     text-align: left; 
         font-family: Constantia;
 }
@@ -229,9 +231,9 @@ margin-left: 860px;
     transform: translate(5px);
     padding: 0px 0px 0px 0px;
  width: 90px;
-    margin-left: 1131px;
+    margin-left: 1114px;
     margin-right: 0px;
-    margin-top: -443px;
+    margin-top: -431px;
     height: 22px;
 }
 #SMedia2{
@@ -241,9 +243,9 @@ margin-left: 860px;
     transform: translate(5px);
     padding: 0px 0px 0px 0px;
  width: 0px;
-    margin-left: 1160px;
+    margin-left: 1144px;
     margin-right: 0px;
-    margin-top: -443px;
+    margin-top: -431px;
 }
 #SMedia3{
   
@@ -253,9 +255,9 @@ margin-left: 860px;
     transform: translate(5px);
     padding: 0px 0px 0px 0px;
  width: 0px;
-    margin-left: 1197px;
+    margin-left: 1180px;
     margin-right: 0px;
-    margin-top: -443px;
+    margin-top: -431px;
 }
 #SMedia1 :hover {
 
@@ -277,4 +279,54 @@ margin-left: 860px;
     transition: 0.5s;
     transform: translate(2px);
 
+}
+.devpic{
+    margin-left: 1300px;
+    margin-top: -586px;
+}
+.devpic1{
+    margin-left: 1300px;
+    margin-top: -5px;
+}
+h4{
+    margin-top: 5px;
+    font-family: Candara;
+    background-color: gray;
+    color: white;
+    height: 20px;
+    width: 60px;
+    text-align: center;
+    margin-left: 35px;
+}
+h5{
+    margin-top: -16px;
+    color: black;
+    font-family: Candara;
+}
+.smedia1{
+    margin-left: 1370px;
+    margin-top: -305.5px;
+    font-family: Candara;
+
+}
+div a :hover{
+    
+    background-color:white;
+text-shadow: 2px 2px 2px darkgray;
+width:60px;
+    transition: 0.5s;
+    transform: translate(3px);
+    padding-left: 3px;
+
+}
+.smedia2{
+    margin-left: 1370px;
+    margin-top: 226px;
+    font-family: Candara;
+
+}
+.submitbutton h2{
+    width: 270px;
+    margin-left: 905px;
+    text-align: center;
 }
